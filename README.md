@@ -36,7 +36,7 @@ Skript ishga tushganda quyidagilar bajariladi:
 > `python3 -m venv Sheyxbe_killer_031` va `source Sheyxbe_killer_031/bin/activate` ishga tushiriladi.
 
 ### 3. Progress Animatsiyasi
-![Progress Animation](images/3.png){width=300px}
+![Progress Animation](images/.png){width=300px}
 > 15 soniya davomida progress bar ko‘rinadi, har soniyada bar to‘ldiriladi.
 
 ### 4. Terminal Prompt va GUI-blast
